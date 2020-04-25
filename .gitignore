@@ -13,6 +13,8 @@
 /debian/files
 /debian/vyatta-op-quagga
 /debian/vyatta-op-quagga.debhelper.log
+/debian/.debhelper/
+/debian/changelog.*
 /INSTALL
 /Makefile.in
 /Makefile
